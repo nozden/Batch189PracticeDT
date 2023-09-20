@@ -41,6 +41,7 @@ public class C06Array {
         System.out.println("toplam = " + toplam);
         double ortalama=toplam/ arr.length;
         System.out.println("ortalama = " + ortalama);
+        
 
         //Ortalamadan daha buyuk olan array elemanlarını yazdırınız
 
